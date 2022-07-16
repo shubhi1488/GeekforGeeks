@@ -1,0 +1,3 @@
+# GeekforGeeks_Solutions
+Geek for Geeks coding solutions.........................
+1.string 
